@@ -24,7 +24,7 @@
 
   <a
     class="font-semibold text-sky-200 hover:text-sky-300 transition-all duration-300 cursor-pointer"
-    href="exam-fe-tau.vercel.app"
+    href="https://exam-fe-tau.vercel.app"
     target="_blank"
   >
     Live demo
